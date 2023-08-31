@@ -9,13 +9,13 @@ During my undergraduate studies, I gained experience with Rhino and used it exte
 
 
 <img width="100%" src="ai_phone_stand.png"></img><br>
+I added my name to the phone stand in illustrator.
+
 <img width="100%" src="sketch02.JPG"></img>
 
-Here is a link to some video documentation I made of my cell phone stand getting cut at Jacobs!  :)
-I did have some issues with heat level, which I brought up to one of my instructors.
+I used a laser-cutting machine to create this phone stand. During the process, I learned how to adjust line width and line color to control the laser cutter's functionality effectively.
 
-
-<a href="https://www.youtube.com/watch?v=FoVW6_42l34"><img width="100%" src="https://img.youtube.com/vi/FoVW6_42l34/0.jpg"></img></a>
+However, on the initial attempt, even with all parameters correctly set, the laser didn't cut through the wood entirely. I noticed that some classmates tried to remove the stand immediately after the first incomplete cut, which resulted in the wood splitting. So, I decided to recut it in the same location, and the result was very satisfying.
 
 ---
 
