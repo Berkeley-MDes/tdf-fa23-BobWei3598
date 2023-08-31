@@ -1,15 +1,12 @@
-# Example Report 1 - Week of 08/28/2023 (Week 2)
-## Jeff Lubow, Technology Design Foundations
+#Weekly Report 08/31/2023
+## Bob Tianqi Wei, Technology Design Foundations
 
 ### Summary: 
 
-This week, I utilized the TDF Computational Design project files to evaluate a phone stand for my own documentation in the course.
-The result was that I cut it out to make sure that it fit my phone.  I had some concerns about it fitting, so I measured a few times beforehand.  I made it with laser-cut acrylic and it came out nicely.  
+This week in the TDF course, I learned the basics of using tools like Rhino, Grasshopper, and Figma. Additionally, I had the opportunity to create a phone stand using a laser-cutting machine. Prior to this, I completed safety training for Jacobs Hall equipment, which will enable me to utilize these resources more effectively for future creative projects.
 
-Some information about my process:
-I spent time in Rhino3d and was able to generate a multitude of different files for phones other than my own.  I experimented with form factors and thought a lot about whether other phones would work within this procedurally generated design.  
+During my undergraduate studies, I gained experience with Rhino and used it extensively for various assignments, including my graduation project. However, I had never worked with Grasshopper, a parametric design tool, before. This week marked my introduction to Grasshopper, expanding my skill set beyond basic 3D modeling in Rhino.
 
-I did some initial sketching here:
 
 <img width="100%" src="sketch01.JPG"></img><br>
 <img width="100%" src="sketch02.JPG"></img>
