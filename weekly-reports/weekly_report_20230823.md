@@ -21,43 +21,15 @@ However, on the initial attempt, even with all parameters correctly set, the las
 
 ### Reflections:
 
-Initially I broke out the measuring tools that came to mind.
+<img width="100%" src="pstand.JPG"></img>
 
-![all tools](measuring_tools.JPG)
-
-I took measurements of my phone and realized that I was measuring in inches, but that the file requires millimeters.  I measured again and it worked out well.
-I eventually ended up using digital calipers that I found in the Makerspace, because I didn't feel like a standard ruler was accurate enough.
-
-![measure1](measure1.JPG) ![measure2](measure2.JPG)
-
-I was able to locate the UI grasshopper panel by navigating in Rhino3d to the "panels" pane and selecting the grasshopper icon.  I found that I needed to disable it from view before re-enabling.
-
-![gh panel](panels_grasshopper.png)
-
-Here are some shots of my explorations of the CellPhoneStand file:
-
-![cps1](cps_1.png)
-![cps2](cps_2.png)
-![cps3](cps_3.png)
-![cps4](cps_4.png)
-![cps5](cps_5.png)
-![cps6](cps_6.png)
-![cps7](cps_7.png)
-![cps8](cps_8.png)
-![cps9](cps_9.png)
-
-I spent some evaluating the CellPhoneStand_forGrasshopper files and had a few realizations:
-
-1. The .stl file is a product of the parameters in the Grasshopper UI, and needs to be exported
-2. The model shown in the display is a specific height, but I need not worry about that because I'm overriding this when I enter in new data into the UI Grasshopper panel
-3. The point cloud representing the field of view is not calculated on the fly, but is a demonstrable as to what sort of considerations a designer would need to be taking into account when 
-
+During the laser-cutting assignment, I engraved my name, "Bob" (in an abstract form), on the bottom plate of the phone stand. However, I didn't consider the final assembly's effect, resulting in my name being obscured once it was put together. This was a hasty oversight in my design. In the future, I will be more thorough in my design considerations.
 
 
 ---
 
 ### Speculations:
 
-I think that in the upcoming weeks, I want to use this stand for video/still documentation of the work I do.  It will hopefully make my weekly reports easier in the sense that I can manipulate whatever physical objects I am working with during the video recording.  I suspect the faculty of TDF may ask me to make an introductory video about myself in which I discuss the reasons I'm here in the program.  It seems that there was an invitation to have this conversation in the [shared slack channel](https://berkeleymdes.slack.com/archives/C05JZF3EJUU)
+In the upcoming weeks, I will diligently study the knowledge covered in the TDF course and strive to become proficient in using these tools to enhance my design work. This is also my first time using GitHub and markdown, and I believe these tools will be beneficial for me.
 
 ---
