@@ -8,7 +8,7 @@ This week in the TDF course, I learned the basics of using tools like Rhino, Gra
 During my undergraduate studies, I gained experience with Rhino and used it extensively for various assignments, including my graduation project. However, I had never worked with Grasshopper, a parametric design tool, before. This week marked my introduction to Grasshopper, expanding my skill set beyond basic 3D modeling in Rhino.
 
 
-<img width="100%" src="sketch01.JPG"></img><br>
+<img width="100%" src="ai_phone_stand.png"></img><br>
 <img width="100%" src="sketch02.JPG"></img>
 
 Here is a link to some video documentation I made of my cell phone stand getting cut at Jacobs!  :)
