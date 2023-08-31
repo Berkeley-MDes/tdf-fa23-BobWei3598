@@ -11,7 +11,7 @@ During my undergraduate studies, I gained experience with Rhino and used it exte
 <img width="100%" src="ai_phone_stand.png"></img><br>
 I added my name to the phone stand in illustrator.
 
-<img width="100%" src="sketch02.JPG"></img>
+<img width="100%" src="pstandcut.JPG"></img>
 
 I used a laser-cutting machine to create this phone stand. During the process, I learned how to adjust line width and line color to control the laser cutter's functionality effectively.
 
