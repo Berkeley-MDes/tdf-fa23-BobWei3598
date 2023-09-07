@@ -3,9 +3,10 @@
 
 ### Summary: 
 
-This week in the TDF course, I learned the basics of using tools like Rhino, Grasshopper, and Figma. Additionally, I had the opportunity to create a phone stand using a laser-cutting machine. Prior to this, I completed safety training for Jacobs Hall equipment, which will enable me to utilize these resources more effectively for future creative projects.
+In this week's TDF class, I continued to learn about using Figma, where we sign up for workshops on different topics, and Figma allows many of us to add content to a page at the same time due to its ability to collaborate online in real time. This is a very interesting tool as we can see everyone's mouse pointers when they are working and see what everyone is changing in real time as if they are working on my computer.
 
-During my undergraduate studies, I gained experience with Rhino and used it extensively for various assignments, including my graduation project. However, I had never worked with Grasshopper, a parametric design tool, before. This week marked my introduction to Grasshopper, expanding my skill set beyond basic 3D modeling in Rhino.
+I signed up for a workshop at Jacobs Hall equipments and the instructor took us out to actually work with the laser cutting equipment and solved a problem one of my classmates was having: setting up the correct size in Illustrator to get a cell phone holder cut to the correct size when cutting it. I also learned about the ability to locate a specific position on a board in the laser cutter software, which is especially useful when we want to utilize a board that has already been used, allowing us to save material and make the best use of it.
+
 
 
 <img width="100%" src="ai_phone_stand.png"></img><br>
