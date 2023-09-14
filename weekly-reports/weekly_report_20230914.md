@@ -34,23 +34,24 @@ I imported the model into the 3D printer at the second floor of Jacobs Hall, spe
 
 <img width="100%" src="psd1.JPG"></img>
 <img width="100%" src="psd2.JPG"></img>
+The angle of this stand perfectly meets my requirements for video calls. I can be quite far from the camera and still see my entire upper body in the frame.
 <img width="100%" src="psd3.JPG"></img>
+However, the stand's width is too large for my phone because I didn't measure my phone's width accurately when making it.
 <img width="100%" src="psd4.JPG"></img>
 <img width="100%" src="psd5.JPG"></img>
+There is space at the bottom for the charger and speaker, so I can charge my phone while using the stand, and the speaker's sound won't be blocked.
 
 
 ---
 
 ### Reflections:
 
-This week's lesson made me think about the tools I'm learning and using for those scenarios? Many of the tools we normally use such as online documents (Google, Microsoft, Kingsoft) have attributes such as online collaboration, but tools such as Figma and Miro are better suited to design as they can be displayed in real time and are more feature rich. But I also thought about whether Figma is suitable for all scenarios such as event registration, because if there are too many users, you don't know who did what and it can cause confusion.
-
+This week's assignment taught me that I should consider more attention to detail in my designs, such as whether the precise dimensions are appropriate, as having the right dimensions can save a lot of additional improvement work. Additionally, we should thoroughly imagine what it will look like after it's implemented when designing.
 
 
 ---
 
 ### Speculations:
 
-n the next few weeks, I will hopefully learn more about the tools in the TDF course and apply them to my future studies and work.
-
+I will continue to refine this model to make it more suitable for my phone's dimensions and create an improved version of the model. This week was a great start to my learning journey with Grasshopper, and I believe Grasshopper is a very useful tool.
 ---
