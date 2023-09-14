@@ -32,12 +32,11 @@ Later, I started experimenting with some new elements. I wanted to use two new r
 
 I imported the model into the 3D printer at the second floor of Jacobs Hall, specifically the Ultimaker. I set up the parameters and filled in the texture on the computer and started the printing process. The model took a total of 12 hours to print, and the next morning, I went to collect my phone stand model.
 
-<img width="100%" src="psd1.jpg"></img>
-
-<img width="100%" src="psd2.jpg"></img>
-<img width="100%" src="psd3.jpg"></img>
-<img width="100%" src="psd4.jpg"></img>
-<img width="100%" src="psd5.jpg"></img>
+<img width="100%" src="psd1.JPG"></img>
+<img width="100%" src="psd2.JPG"></img>
+<img width="100%" src="psd3.JPG"></img>
+<img width="100%" src="psd4.JPG"></img>
+<img width="100%" src="psd5.JPG"></img>
 
 
 ---
