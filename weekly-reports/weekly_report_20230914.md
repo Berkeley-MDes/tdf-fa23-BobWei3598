@@ -40,9 +40,9 @@ However, the stand's width is too large for my phone because I didn't measure my
 <img width="100%" src="psd4.JPG"></img>
 <img width="100%" src="psd5.JPG"></img>
 There is space at the bottom for the charger and speaker, so I can charge my phone while using the stand, and the speaker's sound won't be blocked.
-
 Additionally, this phone stand has a unique and angular appearance that fits well with my desktop.
 
+Video:https://youtu.be/u4n6DXx9_as
 
 ---
 
