@@ -27,9 +27,17 @@ I first adjusted the angles in Grasshopper to meet these criteria for the phone 
 
 Later, I started experimenting with some new elements. I wanted to use two new rectangular shapes to cut and create the phone stand. This way, they would have a very distinctive artificial look, which aligns with my aesthetic preferences. I adjusted the proportions of the model to make it look comfortable and ensured there were no flat surfaces on the front. This was important because if I simply connected the cubes, there would be two flat surfaces at the corners, which wouldn't look good. After that, I used another smaller rectangular shape to cut a portion of the larger one, creating space for the charging cable and ensuring the speaker's sound could be heard. Now, it's ready for 3D printing.
 
+<img width="100%" src="3p1.jpg"></img>
+<img width="100%" src="3p2.jpg"></img>
 
+I imported the model into the 3D printer at the second floor of Jacobs Hall, specifically the Ultimaker. I set up the parameters and filled in the texture on the computer and started the printing process. The model took a total of 12 hours to print, and the next morning, I went to collect my phone stand model.
 
+<img width="100%" src="psd1.jpg"></img>
 
+<img width="100%" src="psd2.jpg"></img>
+<img width="100%" src="psd3.jpg"></img>
+<img width="100%" src="psd4.jpg"></img>
+<img width="100%" src="psd5.jpg"></img>
 
 
 ---
