@@ -5,15 +5,31 @@
 
 
 In this week's TDF course, I learned the fundamentals of Grasshopper modeling very clearly. It's been a great start for me in grasping Grasshopper. With the knowledge I gained, I was able to create a new phone stand based on the files provided in the tutorial, tailored to my own needs, and 3D printed it. Moreover, during the process of making this phone stand, I identified areas in my design that needed improvement. It made me realize the importance of more careful consideration in my designs, as there are still some aspects of my phone stand that require refinement. This is what I have learned.
-<img width="100%" src="figma1.png"></img><br>
-It's funny because I don't know which one of my classmates always changes my name to a really weird font.
 
 
-I signed up for a workshop at Jacobs Hall equipments and the instructor took us out to actually work with the laser cutting equipment and solved a problem one of my classmates was having: setting up the correct size in Illustrator to get a cell phone holder cut to the correct size when cutting it. I also learned about the ability to locate a specific position on a board in the laser cutter software, which is especially useful when we want to utilize a board that has already been used, allowing us to save material and make the best use of it.
+<img width="100%" src="figma2.png"></img><br>
+We vote for content of interest in Figma.
+
+<img width="100%" src="gh2.png"></img><br>
+In class, I learned the basics of Grasshopper, and I encountered red-colored elements when I first started using Grasshopper. Later on, I realized that this was because I hadn't set the appropriate length units. If the length units are set correctly, all the modifications to the model will be successful.
+
+<img width="100%" src="pstsketch.png"></img>
+I've started working on Project 1, which is a phone stand. I want to design a phone stand for use during video calls at home so that I don't have to hold my phone all the time. I'd like to place it on the table when making video calls. It's important that the phone stand doesn't have too much tilt, as I don't want to be too close to the phone to show my upper body properly. It's best if the phone stands almost vertically on the table so that my actions are clearly visible from anywhere in the room. Additionally, it's important that it can charge while in use. Lastly, I want the stand to match the style of my usage scenario, not look out of place, and have a unique appearance.
+
+
+<img width="100%" src="gh2.jpg"></img>
+<img width="100%" src="gh3.jpg"></img>
+I first adjusted the angles in Grasshopper to meet these criteria for the phone stand to match my requirements.
+<img width="100%" src="gh4.jpg"></img>
+<img width="100%" src="gh5.jpg"></img>
+<img width="100%" src="gh6.jpg"></img>
+<img width="100%" src="gh7.jpg"></img>
+
+Later, I started experimenting with some new elements. I wanted to use two new rectangular shapes to cut and create the phone stand. This way, they would have a very distinctive artificial look, which aligns with my aesthetic preferences. I adjusted the proportions of the model to make it look comfortable and ensured there were no flat surfaces on the front. This was important because if I simply connected the cubes, there would be two flat surfaces at the corners, which wouldn't look good. After that, I used another smaller rectangular shape to cut a portion of the larger one, creating space for the charging cable and ensuring the speaker's sound could be heard. Now, it's ready for 3D printing.
 
 
 
-<img width="100%" src="pstand.JPG"></img>
+
 
 
 ---
