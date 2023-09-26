@@ -14,22 +14,23 @@ My Photon 2 is connected to the Berkeley IoT network!
 I successfully ran hello world in the online IDE and saw the text I changed in the serial monitor!
 
 <img width="100%" src="bl.jpg"></img><br>
+I succeeded in getting the LEDs to blink!
+
+<img width="100%" src="photocell.jpg"></img><br>
+The photocell reads the data.
+
+<img width="100%" src="pshw.jpg"></img><br>
+I combined the program for the photoresistor with hello world and now the two functions are displayed alternately.
 
 
-<img width="100%" src="mac1.jpg"></img><br>
-<img width="100%" src="mac2.jpg"></img><br>
-I got the mac address!
-<img width="100%" src="iot1.jpg"></img><br>
-<img width="100%" src="iot2.jpg"></img><br>
-I created the Berkeley IoT device! Already ready for Thursday's class!
-<img width="100%" src="wb1.png"></img><br>
-When I try to run a code following the tutorial in workbench, I get an error message that I can't fix, and I don't know what it is.
+<img width="100%" src="bs1.png"></img><br>
+During Monday's session, our group had a discussion.
 
 ---
 
 ### Reflections:
 
-I thought Photon is a microcontroller like Arduino and when I tried to operate it directly, it showed a lot of error messages in terminal which I didn't know how to solve. There are times when you can't be blindly confident just because you have similar experience, it's better to follow the tutorials step by step.
+A lot of times I should follow tutorials to learn new things instead of trying them without a clue.
 
 
 ---
