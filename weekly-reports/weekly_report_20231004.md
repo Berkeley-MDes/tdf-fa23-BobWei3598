@@ -15,10 +15,10 @@ My Photon flashed the code!
 <img width="100%" src="hw2.png"></img><br>
 This hello world always has one more line.
 
-<img width="100%" src="hw3.jpg"></img><br>
+<img width="100%" src="hw3.png"></img><br>
 I changed the code and now it works.
 
-<img width="100%" src="p2.jpg"></img><br>
+<img width="100%" src="p2.png"></img><br>
 I also finished my Project 2 grouping and had 3 group discussions. Here is my sketch for our initial idea.
 
 
