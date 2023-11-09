@@ -9,7 +9,6 @@ On this Monday, the teacher explained the requirements for Project4. I started t
 
 On Monday, one of the speakers who came to the lecture presented a small device he made with metal welding, which was very interesting and elaborate, and provided me with a lot of inspiration.
 
-Translated with www.DeepL.com/Translator (free version)
 
 <img width="100%" src="pt1.png"></img><br>
 <img width="100%" src="pt2.png"></img><br>
